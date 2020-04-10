@@ -7,6 +7,11 @@ Class components are used to implement logic or state, and use lifecycle methods
 Constructors are used to initialize and load data.
 Render, renders and gives JSX code to the Dom
 
+Component Did mount
+Component Will Unmount
+Component Did Update
+
+
 - [ ] What is the purpose of a custom hook?
 
 custom hooks make our code more reusable for for our project
